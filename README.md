@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+</div>   -->
+# <div align="center">Hello!</div>
 ### <div align="center">I'm Ali, a Software Engineer</div>
 
 <p align="center">
