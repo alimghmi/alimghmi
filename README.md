@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-### <div align="center">I'm Ali, Software Engineer</div>
+### <div align="center">I'm Ali, a Software Engineer</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-moghimi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
