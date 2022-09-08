@@ -8,9 +8,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alimghmi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=alimghmi&icon=0&color=0">
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-moghimi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
